@@ -14,7 +14,7 @@ Used Framework : ***iGraphics***
 
 </br>
 
-Download ***Puzzy Puzzy*** game in your pc from <a href = "https://drive.google.com/drive/folders/1ztJ_zYZH8AkPPF8tNi5p9pBGmA_y6o4Z?usp=sharing"> here </a> and enjoy the game.
+Download ***Puzzy Puzzy*** game in your pc from <a href = "https://drive.google.com/file/d/130bYtypD1mSSvhHfjhPNoDeBNnC6txwq/view?usp=sharing"> here </a> and enjoy the game.
 
 </br>
 
