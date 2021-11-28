@@ -14,6 +14,10 @@ Used Framework : ***iGraphics***
 
 </br>
 
+Required IDE : Microsoft Visual Studio 2013 Community Version
+
+</br>
+
 Download ***Puzzy Puzzy*** game in your pc from <a href = "https://drive.google.com/file/d/130bYtypD1mSSvhHfjhPNoDeBNnC6txwq/view?usp=sharing"> here </a> and enjoy the game.
 
 </br>
