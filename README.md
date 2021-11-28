@@ -18,7 +18,7 @@ Download ***Puzzy Puzzy*** game in your pc from <a href = "https://drive.google.
 
 </br>
 
-Click here to see the source code.
+Click <a href = "https://github.com/shanto-swe029/Puzzy_Puzzy/tree/main/Source%20Code"> here </a> to see the source code.
 
 <br>
 
