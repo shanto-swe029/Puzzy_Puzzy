@@ -14,7 +14,7 @@ Used Framework : ***iGraphics***
 
 </br>
 
-Required IDE : Microsoft Visual Studio 2013 Community Version
+Required IDE : ***Microsoft Visual Studio 2013 Community Version***
 
 </br>
 
