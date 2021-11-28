@@ -1,9 +1,9 @@
 /*
-Project Name		:	Puzzy Puzzy
-Project Type		:	Gaming Project (Puzzle Game)
-Author			:	Ariful Islam Shanto
-Starting Date		:	march 30, 2021
-Ending Date		:	NULL
+		Project Name		:	Puzzy Puzzy
+		Project Type		:	Gaming Project (Puzzle Game)
+		Author			:	Ariful Islam Shanto
+		Starting Date		:	march 30, 2021
+		Ending Date		:	april 07, 2021
 */
 
 #include < fstream >
