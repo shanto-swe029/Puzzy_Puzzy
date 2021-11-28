@@ -22,6 +22,8 @@ Click <a href = "https://github.com/shanto-swe029/Puzzy_Puzzy/tree/main/Source%2
 
 <br>
 
+You are welcomed to download this whole project from <a href = "https://drive.google.com/file/d/1yJRq-JVqpze-ZLDpLlWl7aAAQ__yFX6y/view?usp=sharing"> here </a>.
+
 ---
 
 Thank you.
